@@ -1,0 +1,11 @@
+{
+  "name": "testing-lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jeferson7777/testing-lab.git",
+  "author": "Jefersoon <jeffchc11@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
